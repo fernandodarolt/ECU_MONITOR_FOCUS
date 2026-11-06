@@ -1,0 +1,24 @@
+# Capturas e arquivos locais
+logs/
+backups/
+*.csv
+*.jsonl
+*.bin
+*.BIN
+*.ecu9.json
+*.7z
+*.zip
+*.klg
+*.KLG
+.env
+.env.*
+*.key
+*.pem
+# Resultados gerados e configurações do computador
+tests/*result*.json
+tests/ready*.json
+tests/*ready*.json
+tests/*.stdout.txt
+tests/*.stderr.txt
+.vs/
+.vscode/
